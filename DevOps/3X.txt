@@ -1,0 +1,11 @@
+Weekly DevOps Principle:
+Reducer WIP (Work In Progress)
+Avoid large batch sizes (large commits)
+Limit active branches. Merge atleast daily.
+Avoid long-lived branches
+
+
+Simple is always best:
+Anders does not grade higher if you choose a more complex solution.
+Anders grades higher depending on "why" you did what you did
+

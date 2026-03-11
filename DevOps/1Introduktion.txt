@@ -1,0 +1,15 @@
+Weekly DevOps Principle!
+DevOps principperne er kursus bestemte, altså nogle Anders selv har lavet.
+Continous improvement and learning
+: DevOps handler om hele tiden at forbedrer processer, også dig selv.
+Culture of collaboration and shared responsibility
+: Kommunikation er vigtigt i DevOps.
+
+
+DevOps er ikke en beskyttet titel, det har ændret sig over årene meget. 
+Hver person har sin egen forståelse af DevOps.
+DevOps er ikke bare teknologier, også kultur.
+
+Eksamens spørgsmål:
+	1. What made you DevOps? (hvad har i gjort)
+	2. In what ways were you not DevOps? (hvad har i ikke gjort)

@@ -1,0 +1,52 @@
+Weekly DevOps Principle:
+Collaboration and Communication
+
+Make PR's of a readable sizes Instead of a daily standup metting => daily PR
+
+
+One DevOps Definition:
+CALMS
+C = Culture (Shared Responsibiity, Continous Improvement, Psykologisk sikkerhed)
+A = Automation (Eliminate manual work)
+L = Lean (Small incrmenets of working software to end users)
+M = Measuring, Monitorering ()
+S = Sharing (Transparency, Visibility and knowledge sharing)
+
+
+Software Quality:
+Mange definitioner
+Devops fokuserer på hvad er det vi leverer (til KUNDERNE) (Value Stream)
+
+PR:
+Value = Sharing (CALMS), Ensure quality
+Could be part of automation with tools like coderabbit etc. but:
+The PR wouldn't be for Sharing (CALMS) anymore but for yourself & for software quality
+
+
+Technical Debt:
+If != SoftwareQuality {
+    get.TechnicalDebt()
+}
+Der findes mange typer af teknisk gæld:
+Code debt (dårlig kode)
+design debt (dårlig designet, fx ingen lag)
+infrastructure debt (gammel struktur)
+testing debt (manglende eller dårlig testing)
+docs debt (manglende eller dårlig docs)
+people debt (mangler personer der kan klare jobbet)
+flere...
+
+Code Smells (kode lugter) - Martin Fowler (begreb)
+fx. duplikeret kode
+
+
+Continous Integration: Build and test the code
+Continous Delivery: Deliver build artifacts (fx. image til ghcr)
+Continous Deployment: Deploy to Production
+Continous Feedback: Monitoring, Plan, Code
+
+
+Linting:
+Linters perform static analysis on the code without executing it.
+Used to flag programming errors, bugs, stylistic errors (fx indents) and suspicous constructs.
+Shellcheck is a linter.

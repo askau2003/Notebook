@@ -1,0 +1,12 @@
+Weekly DevOps Principle!
+Transparency, Visibility and knowledge sharing!
+: Del alt viden i teamet
+
+
+OPENAPI
+: Specifikation for hvordan REST API's skal bygges (ikke sprog specifikt)
+Swagger 2.0 brugte YML => OPENAPI 3.0 bruger JSON
+
+
+Miljøvariabler:
+Der er 5 niveauer (levels)

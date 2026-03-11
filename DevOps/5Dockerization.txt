@@ -1,0 +1,17 @@
+Weekly DevOps Principle!:
+Fail fast, recover fast
+
+
+Semantic versioning:
+MAJOR.MINOR.PATCH
+
+MAJOR = last version is not compatible with current
+MINOR = x
+PATCH = backward compatible bug fixes
+
+
+Virtualization & Containerization:
+Hypervisor: A computer on which a hypervisor runs virtual machines is called a host machine.
+
+VM = Skal allokere space og hardware.
+Container = Låner space og hardware.
