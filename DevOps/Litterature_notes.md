@@ -21,10 +21,9 @@
 ## Chapter 1
 
 ### Questions
-* Consider while reading the material, how your group applies these principles.
-* Flow
-* Feedback
-* Continual Learning and Experimentation
+* **Flow** - Small batch sizes(Small commits), visible work (PR's,), software quality tools (Superlinter, Deepsource), CI/CD/CD.
+* **Feedback** - If the simulation fails, we take action, fast. We have monitors setup, to take action even faster.
+* **Continual Learning and Experimentation** - We are in a learning process. We are doing new tasks each week from the course. 
 
 ### Notes
 * Lean Manufacturing
