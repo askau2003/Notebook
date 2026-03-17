@@ -20,23 +20,28 @@
 
 ## Chapter 1
 
-### Questions
 * **Flow** - Small batch sizes(Small commits), visible work (PR's,), software quality tools (Superlinter, Deepsource), CI/CD/CD.
 * **Feedback** - If the simulation fails, we take action, fast. We have monitors setup, to take action even faster.
-* **Continual Learning and Experimentation** - We are in a learning process. We are doing new tasks each week from the course. 
+* **Continual Learning and Experimentation** - We are in a learning process. We are doing new tasks each week from the course.
 
 ### Notes
+
 * Lean Manufacturing
+
 1. The manufacturing value stream = the sequence of activites an organization undertakes to deliver upon a customers request.
 2. The manufacturing value stream uses techniques like small batch sizes, reduce WIP, constant optimization.
 3. The technology value stream = Den sekvens af aktiviteter der kræves for at designe, bygge, teste og levere software til brugerne.
 4. Optimalt set er value streamen kort, så vi hurtigt kan få value til customers. Small batch sizes, hyppige releases. Det opnås via CI/CD/CD pipelines.
 
-
-* Left = Dev, Development | Right = Ops, Customer 
+* Left = Dev, Development | Right = Ops, Customer
 * the Three Ways = a set of principles all DevOps behaviors and patterns are derived from.
+
 1. First way = Fast flow of work from Dev (development) => Ops (operations) => customer.
+
 * Visible work (transparency), reduce batch sizes, build quality. This will reduce lead time to fulfill customer requests.
+
 2. Seconds way = Constant flow of feedback from right to left.
+
 * Maximies opportunities for organization to learn and improve, continously. Fast problemsolving and better quality.
+
 3. Third way = Takes from the second way, keep on improving and learning, culture is to constantly get better (in a good way).
